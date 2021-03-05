@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/TMBD_MovieSearchApp/static/css/main.92550b84.chunk.css",
+    "main.css": "/TMBD_MovieSearchApp/static/css/main.9c0686cc.chunk.css",
     "main.js": "/TMBD_MovieSearchApp/static/js/main.12320229.chunk.js",
     "main.js.map": "/TMBD_MovieSearchApp/static/js/main.12320229.chunk.js.map",
     "runtime-main.js": "/TMBD_MovieSearchApp/static/js/runtime-main.2621599b.js",
@@ -8,13 +8,13 @@
     "static/js/2.ac1ba788.chunk.js": "/TMBD_MovieSearchApp/static/js/2.ac1ba788.chunk.js",
     "static/js/2.ac1ba788.chunk.js.map": "/TMBD_MovieSearchApp/static/js/2.ac1ba788.chunk.js.map",
     "index.html": "/TMBD_MovieSearchApp/index.html",
-    "static/css/main.92550b84.chunk.css.map": "/TMBD_MovieSearchApp/static/css/main.92550b84.chunk.css.map",
+    "static/css/main.9c0686cc.chunk.css.map": "/TMBD_MovieSearchApp/static/css/main.9c0686cc.chunk.css.map",
     "static/js/2.ac1ba788.chunk.js.LICENSE.txt": "/TMBD_MovieSearchApp/static/js/2.ac1ba788.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2621599b.js",
     "static/js/2.ac1ba788.chunk.js",
-    "static/css/main.92550b84.chunk.css",
+    "static/css/main.9c0686cc.chunk.css",
     "static/js/main.12320229.chunk.js"
   ]
 }
