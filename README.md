@@ -1,6 +1,8 @@
 # TMBD_MovieSearchAPP
 An app that list movies and details such as plot and release date based on your search.
 
+## Deployed @ --> https://mendozaremi.github.io/React_MovieSearch/
+
 ## Technology used
 React, JSX, CSS Grid
 
