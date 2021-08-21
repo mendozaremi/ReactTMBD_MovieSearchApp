@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/TMBD_MovieSearchApp/static/css/main.9c0686cc.chunk.css",
-    "main.js": "/TMBD_MovieSearchApp/static/js/main.12320229.chunk.js",
-    "main.js.map": "/TMBD_MovieSearchApp/static/js/main.12320229.chunk.js.map",
-    "runtime-main.js": "/TMBD_MovieSearchApp/static/js/runtime-main.2621599b.js",
-    "runtime-main.js.map": "/TMBD_MovieSearchApp/static/js/runtime-main.2621599b.js.map",
-    "static/js/2.ac1ba788.chunk.js": "/TMBD_MovieSearchApp/static/js/2.ac1ba788.chunk.js",
-    "static/js/2.ac1ba788.chunk.js.map": "/TMBD_MovieSearchApp/static/js/2.ac1ba788.chunk.js.map",
-    "index.html": "/TMBD_MovieSearchApp/index.html",
-    "static/css/main.9c0686cc.chunk.css.map": "/TMBD_MovieSearchApp/static/css/main.9c0686cc.chunk.css.map",
-    "static/js/2.ac1ba788.chunk.js.LICENSE.txt": "/TMBD_MovieSearchApp/static/js/2.ac1ba788.chunk.js.LICENSE.txt"
+    "main.css": "/React_MovieSearch/static/css/main.92550b84.chunk.css",
+    "main.js": "/React_MovieSearch/static/js/main.8c5a1e75.chunk.js",
+    "main.js.map": "/React_MovieSearch/static/js/main.8c5a1e75.chunk.js.map",
+    "runtime-main.js": "/React_MovieSearch/static/js/runtime-main.9dd61815.js",
+    "runtime-main.js.map": "/React_MovieSearch/static/js/runtime-main.9dd61815.js.map",
+    "static/js/2.ac1ba788.chunk.js": "/React_MovieSearch/static/js/2.ac1ba788.chunk.js",
+    "static/js/2.ac1ba788.chunk.js.map": "/React_MovieSearch/static/js/2.ac1ba788.chunk.js.map",
+    "index.html": "/React_MovieSearch/index.html",
+    "static/css/main.92550b84.chunk.css.map": "/React_MovieSearch/static/css/main.92550b84.chunk.css.map",
+    "static/js/2.ac1ba788.chunk.js.LICENSE.txt": "/React_MovieSearch/static/js/2.ac1ba788.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2621599b.js",
+    "static/js/runtime-main.9dd61815.js",
     "static/js/2.ac1ba788.chunk.js",
-    "static/css/main.9c0686cc.chunk.css",
-    "static/js/main.12320229.chunk.js"
+    "static/css/main.92550b84.chunk.css",
+    "static/js/main.8c5a1e75.chunk.js"
   ]
 }
